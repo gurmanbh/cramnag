@@ -110,9 +110,7 @@ function getcol (){return '#' + (function co(lor){   return (lor +=
         }
         ]
 
-        var sitelink = 'http://gurmanbh.github.io/cramnag'
-
-       
+        var sitelink = 'http://www.poynter.org/2016/what-should-you-call-your-next-media-company-find-out-using-our-tronc-name-generator/414977/'
 
         var item = data[Math.floor(Math.random()*data.length)];
 
