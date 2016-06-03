@@ -1,12 +1,22 @@
 (function(){
 
-// User-friendly  human-resource  concept Integrated Cross-platform  neutral  toolset Enterprise-wide  multi-tasking  conglomeration Polarised  maximized  focus group Decentralized  motivating  success Quality-focused  directional  knowledge base Visionary
-
 function getcol (){return '#' + (function co(lor){   return (lor +=
   [0,1,2,3,4,5,6,7,8,9,'a','b','c','d','e','f'][Math.floor(Math.random()*16)])
   && (lor.length == 6) ?  lor : co(lor); })('');}
 
     var data = [
+        {
+            "name":'conitzer',
+            'sentence':"It's content worthy of pulitzers."
+        },
+        {
+            "name":'Latlab',
+            'sentence':"An LA-based latino news media aggregator."
+        },
+        {
+            "name":'Gifbune',
+            'sentence':"Traditional news roots, now with gifs."
+        },
 
         {
             "name":'cros',
