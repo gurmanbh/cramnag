@@ -13,6 +13,14 @@ function getcol (){return '#' + (function co(lor){   return (lor +=
             'sentence':"Cause we are all 'cross-platform.'"
         },
         {
+            "name":'CMSx',
+            'sentence':"Extreme content management for the future."
+        },
+        {
+            "name":'cronk',
+            'sentence':'As in, "cronk out some content."'
+        },
+        {
             "name":'minc',
             'sentence':'It stands for \'maximizing integrated content!\' It\'s very meta.'
         },
@@ -46,7 +54,7 @@ function getcol (){return '#' + (function co(lor){   return (lor +=
         },
         {
             'name':'phiz',
-            'sentence':'It\'s a phase that will \'ph\'izzle out.'
+            'sentence':'Platforms honed with innovation and zeal!'
         },
         {
             'name':'fozy',
@@ -55,10 +63,6 @@ function getcol (){return '#' + (function co(lor){   return (lor +=
         {
             'name':'fuze',
             'sentence':'Sounds all electronic and futuristic. Right?'
-        },
-        {
-            'name':'putz',
-            'sentence':"Maybe it won't be a putz anymore."
         },
         {
             'name':'bize',
