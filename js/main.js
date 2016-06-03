@@ -92,7 +92,7 @@ function getcol (){return '#' + (function co(lor){   return (lor +=
         },
         {
             'name':'sucs',
-            'sentence':'Think of it as "stream-lined user-generated content system." All lowercase, That\'s important.'
+            'sentence':'Think of it as "stream-lined user-generated content system." All lowercase. That\'s important.'
         },
         {
             'name':'vicog',
