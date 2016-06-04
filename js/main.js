@@ -6,6 +6,14 @@ function getcol (){return '#' + (function co(lor){   return (lor +=
 
     var data = [
         {
+            "name":'snac',
+            'sentence':"Cause 'snackable content' is in!"
+        },
+        {
+            "name":'malco',
+            'sentence':"Machine learning and content! What can be better?"
+        },
+        {
             "name":'conitzer',
             'sentence':"It's content worthy of Pulitzers."
         },
