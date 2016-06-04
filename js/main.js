@@ -7,14 +7,14 @@ function getcol (){return '#' + (function co(lor){   return (lor +=
     var data = [
         {
             "name":'conitzer',
-            'sentence':"It's content worthy of pulitzers."
+            'sentence':"It's content worthy of Pulitzers."
         },
         {
-            "name":'Latlab',
+            "name":'latlab',
             'sentence':"An LA-based latino news media aggregator."
         },
         {
-            "name":'Gifbune',
+            "name":'gifbune',
             'sentence':"Traditional news roots, now with gifs."
         },
 
